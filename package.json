@@ -1,10 +1,11 @@
 {
   "name": "cnahgelog-settings",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "repository for learning changelog",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz",
     "prepare": "husky install",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
