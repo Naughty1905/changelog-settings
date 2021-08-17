@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/mokkapps/changelog-generator-demo/compare/v1.1.0...v1.1.1) (2021-08-17)
+
+
+### Bug Fixes
+
+* fix one console lo ([dfeab38](https://github.com/mokkapps/changelog-generator-demo/commits/dfeab382ab8a5d34b41cbfe97e44a9d229fc10ca))
+
+## [1.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.0.0...v1.1.0) (2021-08-17)
+
+
+### Features
+
+* add new console log ([c0dd998](https://github.com/mokkapps/changelog-generator-demo/commits/c0dd99830ceec5d57c6b0f0e50ab440c3e2761b9))
+
 ## 1.0.0 (2021-08-17)
 
 
