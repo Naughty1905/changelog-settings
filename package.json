@@ -1,0 +1,25 @@
+{
+  "name": "cnahgelog-settings",
+  "version": "1.0.0",
+  "description": "repository for learning changelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naughty1905/cnahgelog-settings.git"
+  },
+  "keywords": [
+    "changelog",
+    "git",
+    "commitlint",
+    "version"
+  ],
+  "author": "Istomin Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naughty1905/cnahgelog-settings/issues"
+  },
+  "homepage": "https://github.com/Naughty1905/cnahgelog-settings#readme"
+}
