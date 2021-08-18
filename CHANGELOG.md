@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/mokkapps/changelog-generator-demo/compare/v2.0.0...v2.0.1) (2021-08-18)
+
+
+### Bug Fixes
+
+* function for get current branch name ([0501229](https://github.com/mokkapps/changelog-generator-demo/commits/05012292aab8956566afb156c4a697d909be2c1e))
+
 ## [2.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.3.0...v2.0.0) (2021-08-17)
 
 
