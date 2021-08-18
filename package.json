@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "cz",
-    "prepare": "husky install",
     "release": "standard-version",
     "release:minor": "standard-version --release-as minor",
     "release:patch": "standard-version --release-as patch",
@@ -16,6 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/Naughty1905/cnahgelog-settings.git"
   },
+  "type": "module",
   "keywords": [
     "changelog",
     "git",
@@ -35,6 +35,7 @@
   },
   "devDependencies": {
     "husky": "^7.0.0",
-    "standard-version": "^9.3.1"
+    "standard-version": "^9.3.1",
+    "commitizen": "^4.2.4"
   }
 }
