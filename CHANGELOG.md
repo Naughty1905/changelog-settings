@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v2.1.0...v3.0.0) (2021-08-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* **dev:** changes in commitizen config
+
+МЕТА ДАННЫЕ: for metadata
+
+### Features
+
+* **dev:** add something important in config ([8245fa7](https://github.com/mokkapps/changelog-generator-demo/commits/8245fa7a0cbaa9d81d99879821e44842367e297e))
+
 ## [2.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v2.0.1...v2.1.0) (2021-08-23)
 
 
