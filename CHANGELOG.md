@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v2.0.1...v2.1.0) (2021-08-23)
+
+
+### Features
+
+* **dev:** add current branchname in sommit scope config ([f5c1b92](https://github.com/mokkapps/changelog-generator-demo/commits/f5c1b927388820db4e9be142175f59b84938f8cd))
+
+### [2.0.1](https://github.com/mokkapps/changelog-generator-demo/compare/v2.0.0...v2.0.1) (2021-08-18)
+
+
+### Bug Fixes
+
+* function for get current branch name ([0501229](https://github.com/mokkapps/changelog-generator-demo/commits/05012292aab8956566afb156c4a697d909be2c1e))
+
+## [2.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.3.0...v2.0.0) (2021-08-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **component:** `extends` key in config file is now used for extending other config files
+
+### Features
+
+* **component:** add console.log ([4e2aafa](https://github.com/mokkapps/changelog-generator-demo/commits/4e2aafad2c8879f32d5d6cbbcd4c8795b1c01d86))
+
+## [1.3.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.2.0...v1.3.0) (2021-08-17)
+
+
+### Features
+
+* remove console logs ([9acf566](https://github.com/mokkapps/changelog-generator-demo/commits/9acf5661c75cfa448e7132bfe6e0fbf599ff4268))
+
 ## [1.2.0](https://github.com/mokkapps/changelog-generator-demo/compare/v1.1.1...v1.2.0) (2021-08-17)
 
 

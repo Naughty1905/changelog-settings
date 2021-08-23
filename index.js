@@ -1,3 +1,2 @@
-console.log('I am alive!');
-console.log('Hello World!');
-console.log('Another one!!!');
+console.log('BREAKING CHANGES!!!');
+console.log('BREAKING CHANGES!!!');
