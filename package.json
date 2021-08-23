@@ -15,7 +15,6 @@
     "type": "git",
     "url": "git+https://github.com/Naughty1905/cnahgelog-settings.git"
   },
-  "type": "module",
   "keywords": [
     "changelog",
     "git",
@@ -31,11 +30,22 @@
   "dependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
+    "current-git-branch": "^1.1.0",
     "husky": "^7.0.0"
   },
   "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
+    "cz-customizable": "^6.3.0",
     "husky": "^7.0.0",
-    "standard-version": "^9.3.1",
-    "commitizen": "^4.2.4"
+    "standard-version": "^9.3.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": "./config/commitizen.js"
+    }
   }
 }
