@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.1](https://github.com/mokkapps/changelog-generator-demo/compare/v4.0.0...v4.0.1) (2021-08-23)
+
+## [4.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v3.0.0...v4.0.0) (2021-08-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* **dev:** change name of project
+
+### Bug Fixes
+
+* **dev:** commit for npm publish ([a0ce7a2](https://github.com/mokkapps/changelog-generator-demo/commits/a0ce7a2900ca2d05e9c64b11f3681c2b8fd586e3))
+
 ## [3.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v2.1.0...v3.0.0) (2021-08-23)
 
 
