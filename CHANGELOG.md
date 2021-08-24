@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://github.com/Naughty1905/cnahgelog-settings/compare/v5.0.0...v6.0.0) (2021-08-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* **dev:** aaaaaa
+
+МЕТА ДАННЫЕ: aaaaaa
+
+### Features
+
+* **dev:** add something ([37e7913](https://github.com/Naughty1905/cnahgelog-settings/commit/37e7913c59727cfec3e592089ca403fd31a2df30))
+
+## [5.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v4.0.2...v5.0.0) (2021-08-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* **dev:** console log with breaking changes
+
+МЕТА ДАННЫЕ: fix master from jira-199
+
+### Features
+
+* **dev:** add anothe one log ([97ff256](https://github.com/mokkapps/changelog-generator-demo/commits/97ff256e97fce97c918d33a687b1b580eb9c9720))
+
 ### [4.0.2](https://github.com/mokkapps/changelog-generator-demo/compare/v4.0.1...v4.0.2) (2021-08-23)
 
 ### [4.0.1](https://github.com/mokkapps/changelog-generator-demo/compare/v4.0.0...v4.0.1) (2021-08-23)
