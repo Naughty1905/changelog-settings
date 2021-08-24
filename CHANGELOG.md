@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://github.com/Naughty1905/cnahgelog-settings/compare/v5.0.0...v6.0.0) (2021-08-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* **dev:** aaaaaa
+
+МЕТА ДАННЫЕ: aaaaaa
+
+### Features
+
+* **dev:** add something ([37e7913](https://github.com/Naughty1905/cnahgelog-settings/commit/37e7913c59727cfec3e592089ca403fd31a2df30))
+
 ## [5.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v4.0.2...v5.0.0) (2021-08-23)
 
 
